@@ -12,7 +12,7 @@ function Footer() {
               <img src="/images/logo-white.svg" height="60" width="240" alt="Hack4Impact logo" />
             </div>
             <p>
-              For all inquiries of partnership or sponsorship, please contact us at{' '}
+              If you have questions, including inquiries of partnership or sponsorship, please contact us at{' '}
               {/* TODO: Update this for your university! */}
               <a className="email-link" href="mailto:cornell@hack4impact.org">
                 cornell@hack4impact.org
@@ -83,7 +83,7 @@ function Footer() {
       </Container>
       <style jsx>{`
         .footer-section {
-          background-color: var(--primary-blue);
+          background-color: #B31B1B;
           min-height: 350px;
           padding-top: 70px;
           color: white;
